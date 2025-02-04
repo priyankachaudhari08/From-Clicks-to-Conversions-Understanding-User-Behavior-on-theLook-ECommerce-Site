@@ -1,6 +1,4 @@
-# BA-775-Final-Project
-
-From Clicks to Conversions: Understanding User Behavior on theLook ECommerce Site
+# From Clicks to Conversions: Understanding User Behavior on theLook ECommerce Site
 
 Team members: Camila Daza, Jasmine Gohil, JIACHENG LI, Olivia Peng, Oumou Barry, Priyanka Bharat Chaudhari
 
