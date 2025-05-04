@@ -1,6 +1,5 @@
 # From Clicks to Conversions: Understanding User Behavior on theLook ECommerce Site
 
-Team members: Camila Daza, Jasmine Gohil, JIACHENG LI, Olivia Peng, Oumou Barry, Priyanka Bharat Chaudhari
 
 Tableau Dashboard Link: https://public.tableau.com/app/profile/jiacheng.li4216/viz/shared/B37Q8C6C2
 
